@@ -37,7 +37,7 @@ MonoBehaviour:
   m_Version: 0
   m_Tracks:
   - {fileID: 629520743051049984}
-  - {fileID: 1827936460089437581}
+  - {fileID: 2091284729660032373}
   m_FixedDuration: 0
   m_EditorSettings:
     m_Framerate: 60
@@ -154,7 +154,7 @@ MonoBehaviour:
   m_OpenClipOffsetRotation: {x: 0, y: 0, z: 0, w: 1}
   m_Rotation: {x: 0, y: 0, z: 0, w: 1}
   m_ApplyOffsets: 0
---- !u!114 &1827936460089437581
+--- !u!114 &2091284729660032373
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
